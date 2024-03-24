@@ -12,7 +12,7 @@ Neither Studio Pixel nor Aeon Genesis is responsible if it does Bad Things to yo
 Here is the address of the author's homepage.
 http://hp.vector.co.jp/authors/VA022293/
 
---The map is not usable unless you have the "Map System" item.
---If you have problems with getting two arrow keys to work at once, please use the < > ? settings.
---Please use Courier New as the font. Others cannot be guaranteed to work.
---If the keyboard controls are not responding, please disable "Use Gamepad" through DoConfig.exe.
+--The map is not usable unless you have the "Map System" item. <br>
+--If you have problems with getting two arrow keys to work at once, please use the < > ? settings. <br>
+--Please use Courier New as the font. Others cannot be guaranteed to work. <br>
+--If the keyboard controls are not responding, please disable "Use Gamepad" through DoConfig.exe. <br>
